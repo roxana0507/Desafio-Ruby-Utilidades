@@ -1,10 +1,10 @@
 puts 'Ingrese el precio: '
 price = gets.to_i
-puts 'Ingrese el nukmero de usuarios: '
+puts 'Ingrese el número de usuarios: '
 normal_users = gets.to_i
-puts 'Ingrese el nukmero de usuarios premiun: '
+puts 'Ingrese el número de usuarios premiun: '
 premiun_users = gets.to_i
-puts 'Ingrese el nukmero de usuarios gratuitos: '
+puts 'Ingrese el número de usuarios gratuitos: '
 free_users = gets.to_i
 puts 'Ingrese los gastos: '
 expenses = gets.to_i
